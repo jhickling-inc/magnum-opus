@@ -2,4 +2,4 @@
 
 Project for JHICKLING, Inc
 
-Team Members: Jordan Hickling & Someone Random
+Team Members: Jordan Hickling & Someone Random 
